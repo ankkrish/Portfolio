@@ -15,7 +15,28 @@
       }
     }
   }
-
+#hello-friend,
+.footer-bottom article,
+.getintouch-heading article,
+.language-speak article,
+.navbar-tabs-ul li,
+.two-words article {
+    font-family: fira code
+}
+  .two-words {
+    color: #b3b3b3;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px
+}
+.two-words article {
+  font-size: 3rem
+}
+.two-words article {
+  font-size: 2.5rem
+}
   & hr {
     margin: 1rem auto;
     border: 0;
